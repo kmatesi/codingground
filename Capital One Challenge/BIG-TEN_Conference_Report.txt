@@ -1,0 +1,16 @@
+Team Name              W   L   PF   PA
+---------              -   -   --   --
+Buckeyes              10   1  487  247
+Badgers                9   2  416  177
+Spartans               9   2  483  229
+Golden Gophers         8   3  328  247
+Cornhuskers            8   3  412  264
+Terrapins              7   4  311  306
+Hawkeyes               7   4  305  251
+Scarlet Knights        6   5  266  333
+Nittany Lions          6   5  227  178
+Wildcats               5   6  243  255
+Wolverines             5   6  223  227
+Fighting Illini        5   6  272  374
+Hoosiers               3   8  278  378
+Boilermakers           3   8  270  357
