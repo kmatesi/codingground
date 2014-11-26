@@ -1,0 +1,130 @@
+Team Name              W   L   PF   PA
+---------              -   -   --   --
+Thundering Herd       11   0  494  181
+Seminoles             11   0  391  245
+Ducks                 10   1  504  260
+Buckeyes              10   1  487  247
+Bulldogs              10   1  429  202
+Crimson Tide          10   1  385  159
+Rams                  10   1  407  254
+Bears                  9   1  500  217
+Horned Frogs           9   1  459  231
+Spartans               9   2  483  229
+Bulldogs               9   2  476  225
+Badgers                9   2  416  177
+Yellow Jackets         9   2  416  265
+Broncos                9   2  440  312
+Wildcats               9   2  398  271
+Sun Devils             9   2  409  290
+Tigers                 9   2  322  222
+Bruins                 9   2  385  299
+Huskies                9   2  336  269
+Wildcats               8   2  352  210
+Aggies                 9   3  337  220
+Rebels                 8   3  334  149
+Eagles                 8   3  447  265
+Tigers                 8   3  375  195
+Sooners                8   3  432  259
+Cornhuskers            8   3  412  264
+Cardinals              8   3  347  206
+Broncos                8   3  394  255
+Tigers                 8   3  326  194
+Tigers                 8   3  386  258
+Blue Devils            8   3  349  226
+Golden Gophers         8   3  328  247
+Falcons                8   3  344  266
+Pirates                7   3  367  244
+Knights                7   3  290  185
+Bearcats               7   3  373  284
+Tigers                 7   4  308  180
+Cougars                7   4  392  268
+Bulldogs               7   4  389  271
+Trojans                7   4  372  271
+Aggies                 7   4  396  305
+Fighting Irish         7   4  382  302
+Hawkeyes               7   4  305  251
+Utes                   7   4  324  280
+Owls                   7   4  313  288
+Rockets                7   4  361  336
+Ragin' Cajuns          7   4  325  312
+Terrapins              7   4  311  306
+Falcons                7   4  346  349
+Gators                 6   4  316  209
+Cougars                6   4  286  187
+Huskies                7   5  370  304
+Chippewas              7   5  302  278
+Razorbacks             6   5  370  222
+Cardinal               6   5  277  182
+Mountaineers           6   5  383  300
+Hurricanes             6   5  336  257
+Mountaineers           6   5  361  290
+Red Wolves             6   5  365  298
+Hilltoppers            6   5  461  405
+Bobcats                6   5  352  301
+Nittany Lions          6   5  227  178
+Eagles                 6   5  283  239
+Gamecocks              6   5  383  339
+Aztecs                 6   5  271  234
+Longhorns              6   5  261  231
+Wolf Pack              6   5  327  311
+Wolfpack               6   5  323  317
+Blue Raiders           6   5  358  354
+Miners                 6   5  316  323
+Tar Heels              6   5  404  432
+Jaguars                6   5  225  268
+Scarlet Knights        6   5  266  333
+Bobcats                6   6  246  298
+Owls                   5   5  261  193
+Midshipmen             5   5  338  289
+Panthers               5   6  345  284
+Volunteers             5   6  307  270
+Hokies                 5   6  256  225
+Cavaliers              5   6  290  265
+Blazers                5   6  353  335
+Zips                   5   6  247  250
+Wolverines             5   6  223  227
+Bears                  5   6  424  435
+Wildcats               5   6  243  255
+Wildcats               5   6  310  331
+Beavers                5   6  289  332
+Bulldogs               5   6  323  375
+Cowboys                5   6  291  349
+Monarchs               5   6  361  428
+Fighting Illini        5   6  272  374
+Bulls                  4   6  314  326
+Cardinals              4   7  291  302
+Mean Green             4   7  299  324
+Warhawks               4   7  225  293
+Black Knights          4   7  289  378
+Bulls                  4   7  206  308
+Red Raiders            4   7  320  447
+Cowboys                4   7  223  358
+Golden Panthers        4   8  276  298
+Warriors               4   8  251  321
+Minutemen              3   8  307  355
+Cougars                3   8  369  432
+Orange                 3   8  198  264
+Boilermakers           3   8  270  357
+Spartans               3   8  225  315
+Hoosiers               3   8  278  378
+Lobos                  3   8  296  401
+Roadrunners            3   8  171  284
+Demon Deacons          3   8  157  276
+Owls                   3   8  260  382
+Green Wave             3   8  189  331
+Jayhawks               3   8  201  348
+Trojans                3   8  239  392
+Golden Eagles          3   8  204  380
+Commodores             3   8  189  375
+Cyclones               2   8  251  374
+Huskies                2   8  156  290
+Buffaloes              2   9  308  430
+Aggies                 2   9  259  401
+Golden Hurricane       2   9  264  422
+Eagles                 2   9  166  439
+RedHawks               2  10  268  382
+Rebels                 2  10  258  451
+Vandals                1   9  247  365
+Golden Flashes         1   9  153  295
+Panthers               1  10  241  466
+Mustangs               0  10   97  441
